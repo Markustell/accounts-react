@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'AnuBold';
+  src: url('./fonts/Anuphan-Bold.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AnuRegular';
+  src: url('./fonts/Anuphan-Regular.ttf') format('truetype');
+}
+@font-face {
+  font-family: 'AnuLight';
+  src: url('./fonts/Anuphan-Light.ttf') format('truetype');
+}
