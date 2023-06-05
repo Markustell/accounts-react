@@ -5,7 +5,7 @@ import './Navbar.css'
 function Navbar() {
   return (
     <nav>
-      <h1>the Accounts</h1>
+      <h1>รายรับ - รายจ่าย</h1>
     </nav>
   )
 }
