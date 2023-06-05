@@ -1,3 +1,28 @@
 .content {
-    min-height: 100vh;
+    display: flex;
+    justify-content: space-between;
+    min-height: calc(100vh - 60px);
+
+    .insertCtn {
+        width: 50%;
+
+        .insertBx {
+            height: 50%;
+            border-bottom: 1px solid #3e3e3e;
+        }
+
+        .statsBx {
+            height: 50%;
+        }
+    }
+
+    .showBx {
+        width: 50%;
+
+        .titleBx {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+    }
 }
