@@ -4,7 +4,9 @@ import './Navbar.css'
 
 function Navbar() {
   return (
-    <div>Navbar</div>
+    <nav>
+      <h1>the Accounts</h1>
+    </nav>
   )
 }
 
